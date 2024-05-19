@@ -1,9 +1,9 @@
 <!-- LÍNEA DE ARCOÍRIS SUPERIOR -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-![Blue Futurustic Technology Linkedin Banner](https://github.com/stivenjimenez/stivenjimenez/assets/58489695/74f62816-3811-467b-b8bc-7308f5bc6307)
+![1691493314841](https://github.com/stivenjimenez/stivenjimenez/assets/58489695/99306179-9d68-40e8-b7d4-963fe8eea3d0)
 
-📫 Puedes contactarme a través de mi correo electrónico: stivenjimenez.dev@gmail.com
+📫 Puedes contactarme a través de mi correo electrónico: stiven.jimenez@bia.app
 
 💼 LinkedIn ➡️ [https://www.linkedin.com/in/stivenjimenez](https://www.linkedin.com/in/stivenjimenez)
 
