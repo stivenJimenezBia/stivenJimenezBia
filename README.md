@@ -1,7 +1,8 @@
 <!-- LÍNEA DE ARCOÍRIS SUPERIOR -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-![1691493314841](https://github.com/stivenjimenez/stivenjimenez/assets/58489695/99306179-9d68-40e8-b7d4-963fe8eea3d0)
+![1662732711945](https://github.com/stivenJimenezBia/stivenJimenezBia/assets/141857423/196e2911-9a4b-404a-80ae-2235a777c5bc)
+
 
 📫 Puedes contactarme a través de mi correo electrónico: stiven.jimenez@bia.app
 
@@ -25,5 +26,8 @@
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 <img alt="Figma" src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=black" />
-
+![hotjar](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)
+![platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)
+![astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
  <p align="center"><img alt="Gif decorativo final" src="https://i.postimg.cc/k5wGrps2/giphy.gif" /></p>
