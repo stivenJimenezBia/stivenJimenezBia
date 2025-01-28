@@ -1,8 +1,7 @@
 <!-- LÍNEA DE ARCOÍRIS SUPERIOR -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-![1662732711945](https://github.com/stivenJimenezBia/stivenJimenezBia/assets/141857423/196e2911-9a4b-404a-80ae-2235a777c5bc)
-
+![Banner_LinkedIn](https://github.com/user-attachments/assets/856547bb-2314-4a99-ae7c-16b1b00aadc7)
 
 📫 Puedes contactarme a través de mi correo electrónico: stiven.jimenez@bia.app
 
