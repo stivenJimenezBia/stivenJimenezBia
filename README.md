@@ -29,4 +29,5 @@
 ![platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)
 ![astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
  <p align="center"><img alt="Gif decorativo final" src="https://i.postimg.cc/k5wGrps2/giphy.gif" /></p>
